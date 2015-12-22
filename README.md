@@ -1,4 +1,4 @@
 CHECON
 ======
 
-CHE controller top level (assembly instructions, BOM, ECO etc. Envisioning this consisting of its PCB and SMCASE components)
+CHE Controller top level version 1.1 (assembly instructions, BOM, ECO, Assembly Docs, and Packing info).
